@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上
 "love_date": "1949-10-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "当你大为谦卑之时，就是你趋于伟大之时",
+"note_ch": "新的一天，好好爱自己，记得去实习注意安全哦！还有记得中午多休息会，晚上叫你熬大夜",
 # 金句英文
-"note_en": "When you are greatly humble, you become great"
+"note_en": "Love yourself，Pay attention to safety during practice"
 }
